@@ -37,8 +37,9 @@ if __name__ == '__main__':  #main function
         elif(choice=='n'):
             print("Re-enter the values!")
             
-            '''
-            Enter student info for student #1 in the following manner, Name of the student and his marks in 3 subjects: Vashishtha 97 98 100
+'''
+
+Enter student info for student #1 in the following manner, Name of the student and his marks in 3 subjects: Vashishtha 97 98 100
 
 The Entered information is: -
 Name: Vashishtha
